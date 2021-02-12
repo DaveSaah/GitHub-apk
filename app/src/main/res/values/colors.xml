@@ -1,0 +1,7 @@
+<resources>
+	<color	name="colorPrimary">#BDBDBD</color>
+	<color	name="colorPrimaryDark">#000000</color>
+	<color	name="colorAccent">#FAFAFA</color>
+	<color	name="colorControlHighlight">#BDBDBD</color>
+	<color	name="colorControlNormal">#FAFAFA</color>
+</resources>
